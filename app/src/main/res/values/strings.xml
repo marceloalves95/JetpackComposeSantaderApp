@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JetpackComposeSantaderApp</string>
+    <string name="add_title">Adicionar</string>
+    <string name="name_hilt">Digite o seu nome</string>
+    <string name="email_hint">Digite o seu email</string>
+    <string name="role_select">Selecione o perfil</string>
+    <string name="add_button_text">Salvar</string>
+    <string name="lorem">Lorem ipsum hac aenean aliquam mollis hendrerit bibendum sagittis dui platea ipsum, feugiat curabitur habitant pulvinar inceptos netus venenatis eleifend luctus urna. gravida porttitor libero fringilla curabitur eu sollicitudin rutrum eros quisque nisl, consequat dui vehicula rutrum pulvinar himenaeos cras magna potenti ac, bibendum nulla tincidunt nisl imperdiet eros mollis aliquet mi. conubia ligula interdum torquent mollis diam velit egestas, primis feugiat ac aptent pellentesque etiam quisque, massa convallis vitae potenti at auctor. condimentum ultricies scelerisque lorem id, bibendum accumsan a urna, volutpat taciti ultrices. semper blandit condimentum dolor sollicitudin quam, purus sed ultrices sagittis est, commodo erat sapien amet. </string>
+</resources>
